@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# Environment variables
+.env
+
+# Data files (we’ll control what to commit later)
+data/*.csv
+
+# Database / temp files
+*.db
